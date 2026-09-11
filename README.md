@@ -1,5 +1,5 @@
 
-# Terraform AWS Infrastructure Automation
+# Terraform AWS Infrastructure Automation 
 
 This project demonstrates how to provision and manage AWS infrastructure using **Terraform Infrastructure as Code (IaC)**.
 
