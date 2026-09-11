@@ -5,7 +5,7 @@ This project demonstrates how to provision and manage AWS infrastructure using *
 
 The goal of this project is to automate AWS resource creation instead of creating resources manually from the AWS Console.
 
-## 🚀 Technologies Used
+## 🚀 Technologies Used 
 
 * Terraform
 * AWS
