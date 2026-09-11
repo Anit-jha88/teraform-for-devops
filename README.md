@@ -91,7 +91,7 @@ AWS Region
 Output Format
 ```
 
-Example region:
+Example region: 
 
 ```text
 ap-south-1
