@@ -35,7 +35,7 @@ output "ec2_public_ip" {
   output "ec2_public_dns" {
   value=[ 
     for key in aws_instance.my_instance: key.public_dns
-  ]
+  ] 
   }
 
    output "ec2_privatec_ip" {
