@@ -12,4 +12,4 @@ terraform {
     region = "ap-south-1"
     dynamodb_table = "clouddevops-table"
   }
-} 
+}  
