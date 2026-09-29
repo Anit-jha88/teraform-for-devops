@@ -7,7 +7,7 @@ The goal of this project is to automate AWS resource creation instead of creatin
 
 ## 🚀 Technologies Used       
 
-* Terraform
+* Terraform 
 * AWS
 * EC2
 * VPC
